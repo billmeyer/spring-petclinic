@@ -1,5 +1,6 @@
 target/*
 .settings/*
+otel/*.jar
 .classpath
 .project
 .factorypath
